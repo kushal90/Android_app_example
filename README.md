@@ -14,4 +14,4 @@ __OnClick method__ on buttons (To increase/decrease order quantity and to send t
 -The Order button sends the OrderSummary to Whatsapp.  
 __Localization__ (Some strings have been translated to Spanish)  
 __EditText__ (We get the name of the user which he/she enters)  
--android:hint tells user what should he type in the Textbox (saves space using this method instead of writing "Name:" in front of an input text box.)
+-android:hint tells user what should he type in the Textbox (saves space using this method instead of writing "Name:" in front of an input text box.).
